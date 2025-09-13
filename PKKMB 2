@@ -1,1 +1,5 @@
-git
+git init
+git add .
+git commit -m "pesan commit"
+git push
+
